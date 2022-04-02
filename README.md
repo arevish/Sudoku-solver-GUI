@@ -27,6 +27,7 @@ In part 2 (look below) we will implement the entire algorithm with the GUI to sh
 Hope You Will Like The Game. also u can use the code to make your own version of game.
 
 ### DEMO - sudokuGUI.py
+![sudokudemo](https://user-images.githubusercontent.com/91308138/161383210-7c0cf10f-9c40-4ab7-b92c-473c09a99f5d.gif)
 
 ###  DEMO - sudokusolver.py
 ```
